@@ -1,0 +1,4 @@
+com/lijiaqi/image_editor/ImageEditorPlugin.java
+ com.lijiaqi.image_editor.ImageEditorPlugin
+com/lijiaqi/image_editor/BuildConfig.java
+ com.lijiaqi.image_editor.BuildConfig

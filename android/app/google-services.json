@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "27792429408",
+    "firebase_url": "https://i-spy-7a743-default-rtdb.firebaseio.com",
+    "project_id": "i-spy-7a743",
+    "storage_bucket": "i-spy-7a743.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27792429408:android:b37cd32564509938490e05",
+        "android_client_info": {
+          "package_name": "com.uenics.ispy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27792429408-lf0f547i90mtulrgobq476feoae16jk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuOQ-4v_SMOrl8eg-vuI3rXacx7Y8YzHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27792429408-lf0f547i90mtulrgobq476feoae16jk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">27792429408-lf0f547i90mtulrgobq476feoae16jk2.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://i-spy-7a743-default-rtdb.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">27792429408</string>
+    <string name="google_api_key" translatable="false">AIzaSyCuOQ-4v_SMOrl8eg-vuI3rXacx7Y8YzHI</string>
+    <string name="google_app_id" translatable="false">1:27792429408:android:b37cd32564509938490e05</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCuOQ-4v_SMOrl8eg-vuI3rXacx7Y8YzHI</string>
+    <string name="google_storage_bucket" translatable="false">i-spy-7a743.appspot.com</string>
+    <string name="project_id" translatable="false">i-spy-7a743</string>
+</resources>
