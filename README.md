@@ -5,7 +5,8 @@ I Spy with my little eye a thing starting with the letter
 ## Screens
 
 ### Login
-![alt Login](/screenshots/login.jpg =250x)
+![Login](/screenshots/login.jpg)
+<img src="/screenshots/login.jpg" alt="Login" height="200">
 
 ### Create User
 ![Create User](/screenshots/create_user.jpg =250x)
