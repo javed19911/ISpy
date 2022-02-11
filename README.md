@@ -5,22 +5,22 @@ I Spy with my little eye a thing starting with the letter
 ## Screens
 
 ### Login
-![alt Login](/screenshots/login.jpg)
+![alt Login](/screenshots/login.jpg =250x)
 
 ### Create User
-![Create User](/screenshots/create_user.jpg)
+![Create User](/screenshots/create_user.jpg =250x)
 
 ### Active Users
-![Active Users](/screenshots/active_user.jpg)
+![Active Users](/screenshots/active_users.jpg =250x)
 
 ### Chat
-![Chat](/screenshots/chat.jpgg)
+![Chat](/screenshots/chat.jpg =250x)
 
 ### Replay Option
-![Replay Option](/screenshots/reply.jpg)
+![Replay Option](/screenshots/reply.jpg =250x)
 
 ### Draw on Image
-![Draw on Image](/screenshots/draw_on_image.jpg)
+![Draw on Image](/screenshots/draw_on_image.jpg =250x)
 
 ### Send the Edited Image
 ![Send the Edited Image](/screenshots/send_edited_image.jpg)
