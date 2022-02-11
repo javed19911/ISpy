@@ -5,23 +5,22 @@ I Spy with my little eye a thing starting with the letter
 ## Screens
 
 ### Login
-![Login](/screenshots/login.jpg)
-<img src="/screenshots/login.jpg" alt="Login" height="200">
+<img src="/screenshots/login.jpg" alt="Login" height="400">
 
 ### Create User
-![Create User](/screenshots/create_user.jpg =250x)
+<img src="/screenshots/create_user.jpg" alt="Create User" height="400">
 
 ### Active Users
-![Active Users](/screenshots/active_users.jpg =250x)
+<img src="/screenshots/active_users.jpg" alt="Active Users" height="400">
 
 ### Chat
-![Chat](/screenshots/chat.jpg =250x)
+<img src="/screenshots/chat.jpg" alt="Chat" height="400">
 
 ### Replay Option
-![Replay Option](/screenshots/reply.jpg =250x)
+<img src="/screenshots/reply.jpg" alt="Replay Option" height="400">
 
 ### Draw on Image
-![Draw on Image](/screenshots/draw_on_image.jpg =250x)
+<img src="/screenshots/draw_on_image.jpg" alt="Draw on Image" height="400">
 
 ### Send the Edited Image
-![Send the Edited Image](/screenshots/send_edited_image.jpg)
+<img src="/screenshots/send_edited_image.jpg" alt="Send the Edited Image" height="400">
