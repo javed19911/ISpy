@@ -227,7 +227,7 @@ class _UserChatState extends State<UserChat> {
                                       "${DateTime.now().microsecondsSinceEpoch}")
                                   .set({
                                 'msg': _messageController.text,
-                                'from': user
+                                'from': loggedInUser
                               });
                               _messageController.clear();
                             }
